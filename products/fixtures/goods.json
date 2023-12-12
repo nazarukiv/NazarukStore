@@ -1,0 +1,6 @@
+[
+  {"model": "products.product", "pk": 5, "fields": {"name": "Black Adidas Originals Hoodie with Monograms", "description": "Soft fabric for hoodies. Style and comfort are a way of life.", "price": "60.00", "quantity": 10, "image": "products_images/Adidas-hoodie.png", "category": 4}},
+  {"model": "products.product", "pk": 6, "fields": {"name": "Blue The North Face Jacket", "description": "Smooth fabric. Waterproof coating. Lightweight and warm down filling.", "price": "350.00", "quantity": 3, "image": "products_images/Blue-jacket-The-North-Face.png", "category": 4}},
+  {"model": "products.product", "pk": 7, "fields": {"name": "Brown ASOS DESIGN Sports Oversized Top", "description": "Material with plush texture. Comfortable and soft.", "price": "40.00", "quantity": 7, "image": "products_images/Brown-sports-oversized-top-ASOS-DESIGN.png", "category": 4}},
+  {"model": "products.product", "pk": 8, "fields": {"name": "Black Nike Heritage Backpack", "description": "Dense fabric. Lightweight material.", "price": "70.00", "quantity": 3, "image": "products_images/Black-Nike-Heritage-backpack.png", "category": 6}}
+]

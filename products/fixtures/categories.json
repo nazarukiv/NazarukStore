@@ -1,0 +1,7 @@
+[
+  {"model": "products.productcategory", "pk": 3, "fields": {"name": "New Arrivals", "description": ""}},
+  {"model": "products.productcategory", "pk": 4, "fields": {"name": "Clothing", "description": ""}},
+  {"model": "products.productcategory", "pk": 5, "fields": {"name": "Footwear", "description": ""}},
+  {"model": "products.productcategory", "pk": 6, "fields": {"name": "Accessories", "description": ""}},
+  {"model": "products.productcategory", "pk": 7, "fields": {"name": "Gifts", "description": ""}}
+]
