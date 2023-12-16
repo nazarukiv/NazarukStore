@@ -8,5 +8,4 @@ urlpatterns = [
     path('page/<int:page_number>/', products, name='paginator'),
     path('basket/add<int:product_id>/', basket_add, name='basket_add'),
     path('basket/remove<int:basket_id>/', basket_remove, name='basket_remove'),
-
 ]
